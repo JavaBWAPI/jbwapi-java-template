@@ -12,3 +12,7 @@ $ mvn package
 
 $ java -jar target/jbwapi-template-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
+
+### Tutorial
+
+Follow the [tutorial](https://github.com/JavaBWAPI/Java-BWAPI-Tutorial/wiki) for more information
