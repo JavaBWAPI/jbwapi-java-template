@@ -2,8 +2,6 @@ import bwapi.BWClient;
 import bwapi.DefaultBWListener;
 import bwapi.Game;
 
-import java.util.stream.Collectors;
-
 public class Bot extends DefaultBWListener {
     private BWClient bwClient;
     private Game game;
